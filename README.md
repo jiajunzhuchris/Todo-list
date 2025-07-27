@@ -1,2 +1,2 @@
 # Todo-list
-This is a simple TO-DO list demo.
+This is a simple TODO-list demo.
